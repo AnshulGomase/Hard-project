@@ -2,6 +2,6 @@
 <br>
 owner : anshul gomase
 <br><br>
-=======
+
 <br>
 Auther : Anshul wangdu
